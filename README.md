@@ -1,3 +1,15 @@
+# I got a hold of this codebase as it was circulating on freelancing website, the hiring party would ask the developer to run this code and see if they can fix the issue. This has malicious code, please be careful. It is a good exercise to play around with but do not run it on your computer, try it in a VM or sandboxed environment such as Github CodeSpaces.
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+## Original README BELOW
+
+
+
 # UltraX Dex Platform
 
 **What is UltraX?**
